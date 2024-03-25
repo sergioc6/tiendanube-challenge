@@ -4,12 +4,18 @@ Make you sure you hace installed node 14 or higher.
 ## Commands
 Install API dependences
 
-`$ npm install
+```sh
+$ npm install
+```
 
 Run server
 
-`$ npm start
+```sh
+$ npm start
+```
 
 Run tests
 
-`$ npm test
+```sh
+$ npm test
+```
