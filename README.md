@@ -1,7 +1,7 @@
-# Requirements
+## Requirements
 Make you sure you hace installed node 14 or higher.
 
-*Commands
+## Commands
 Install API dependences
 
 `$ npm install
